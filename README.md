@@ -1,4 +1,4 @@
 hi
 hello
-I wan to commit
+I want to commit
 # sw16_Sieun
